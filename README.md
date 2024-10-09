@@ -9,9 +9,12 @@ Grupo:
 
 ## Criar Banco de Dados
 
-  1. Conecte-se ao MySQL Workbench.
+  1. Conecte-se ao MySQL Workbench clicando em `Local instance`.
 
-  2. Execute o seguinte comando em `Querry` para criar um banco de dados:
+     ![image](https://github.com/user-attachments/assets/9868dbd8-9bfa-4433-9f74-98403e3ad44a)
+
+
+  3. Execute o seguinte comando em `Querry` para criar um banco de dados:
      ```MySQL
      CREATE DATABASE nome_do_banco;
      USE nome_do_banco;
