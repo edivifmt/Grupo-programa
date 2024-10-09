@@ -31,6 +31,19 @@ Grupo:
       data_nascimento DATE
     );
     ```
+
+## Adicionar itens
+
+4. Execute o seguinte comando para adicionar itens a uma tabela:
+   ```MySQL
+   INSERT INTO nome_da_tabela (id, nome, idade, data_nascimento) VALUES
+   (1, 'Alice', 30, '1993-05-15'),
+   (2, 'Bruno', 25, '1998-08-20'),
+   (3, 'Carla', 40, '1983-12-01'),
+   (4, 'David', 22, '2001-03-10'),
+   (5, 'Eva', 35, '1988-07-22');
+   ```
+
     
 ## Visualizar Dados
 
