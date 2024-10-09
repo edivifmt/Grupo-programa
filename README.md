@@ -1,2 +1,6 @@
-# Grupo-programa-o-
-Grupo: Eduardo Aguiar, Isaac Alves e Gabriel Viegas
+# Criar tabela em banco de dados MySQL
+
+Grupo:
+  - Eduardo Aguiar
+  - Gabriel Viegas
+  - Isaac Alves
