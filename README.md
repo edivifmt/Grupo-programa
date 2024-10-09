@@ -6,5 +6,4 @@ Grupo:
   - Gabriel Viegas
   - Isaac Alves
 
-[!CAUTION]
-Avise quando for editar e salvar as mudanças
+[!CAUTION]Avise quando for editar e salvar as mudanças
