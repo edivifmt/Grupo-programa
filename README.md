@@ -18,3 +18,9 @@ Grupo:
      ```MySQL
      CREATE DATABASE nome_do_banco;
      ```
+     Substitua `nome_do_banco` pelo nome que você deseja dar ao seu banco de dados.
+  3. Execute o comando clicando no ícone de raio (Execute) ou pressionando `Ctrl + Shift + Enter`.
+  4. Para usar o banco de dados recém-criado, digite:
+    ```MySQL
+    USE nome_do_banco;
+    ```
