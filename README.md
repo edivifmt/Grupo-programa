@@ -47,7 +47,7 @@ Grupo:
     
 ## Visualizar Dados
 
-4. Para visualizar a tabela (caso haja dados):
+5. Para visualizar a tabela (caso haja dados):
   ```MySQL
   SELECT * FROM nome_da_tabela;
   ```
