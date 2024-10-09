@@ -34,7 +34,7 @@ Grupo:
   SELECT * FROM nome_da_tabela;
   ```
 
-## Dicas
+### Dicas
   - Altere `nome_do_banco` e `nome_da_tabela` conforme necessário.
   - Use o comando `SHOW TABLES`; para listar as tabelas em um banco de dados.
 
